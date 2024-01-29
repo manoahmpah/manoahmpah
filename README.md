@@ -1,7 +1,11 @@
 ### Hi there 👋
+My name is Manoah, I'm a studant in SupInfo School. My live can be resume to me that learning all the thinks that can be learn in IT 🧑‍💻
+- Cybersecurity (via HackTheBox course)
+- HTML / CSS / JS (via YouTube channel)
+
 
 <!--
-**manoahmpah/manoahmpah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
