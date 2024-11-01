@@ -11,7 +11,7 @@ Je travaille sur des projets orientés objet, principalement en C++ et Python, a
 ## Compétences
 
 - **Langages** : C++, Python, PHP, SQL
-- **Outils** : Cyberduck, Windows Server, MySQL (8.0.30), Laragon
+- **Outils** : Cyberduck, Windows Server, MySQL (8.0.30), Laragon, suite jetBrain
 
 ## Projets
 
