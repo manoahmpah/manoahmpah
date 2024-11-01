@@ -1,40 +1,27 @@
 # 👋 Bonjour, je suis Manoah
 
-👨‍💻 **Développeur en [C++, Python, PHP, etc.]**  
-🎓 Actuellement étudiant à SUPINFO, passionné par l'architecture logicielle et le développement d'applications innovantes.
+👨‍💻 **Développeur en C++, Python, et PHP**  
+🎓 Étudiant à SUPINFO, passionné par l'architecture logicielle et les applications innovantes.
 
----
+## À propos
 
-## 📖 À propos de moi
+Je travaille sur des projets orientés objet, principalement en C++ et Python, avec un intérêt particulier pour l'administration de systèmes et les technologies de virtualisation. Dernièrement, j'ai configuré un VPN site à site sous Windows Server pour un projet fictif, *Pasta Scaduta*.
 
-Je me concentre principalement sur des projets orientés objet, notamment en C++ et en Python. J'aime explorer des architectures robustes comme MVC et approfondir mes connaissances dans la création de sites e-commerce ainsi que dans la gestion de services sur Windows Server.
 
-L'administration de systèmes à grande échelle et les technologies de virtualisation m'intéressent particulièrement. Récemment, j'ai entrepris un projet réseau pour l’entreprise fictive Pasta Scaduta, où j'ai configuré un VPN site à site sous Windows Server.
+## Compétences
 
----
+- **Langages** : C++, Python, PHP, SQL
+- **Outils** : Cyberduck, Windows Server, MySQL (8.0.30), Laragon
 
-## 🔧 Compétences
+## Projets
 
-- **Langages** : PHP, JavaScript, C++, SQL
-- **Frameworks et outils** : Cyberduck, Windows Server
-- **Bases de données** : MySQL (version 8.0.30)
-- **Environnement de développement** : Laragon
+- **Jeu en C++** : Projet scolaire, non public pour des raisons de confidentialité académique.
 
----
+## Objectifs
 
-## 📚 Projets en cours
+Créer une marque technologique française et un OS basé sur un noyau Linux, pour rivaliser avec les grands noms de l’industrie.
 
-- **Projet en C++** : Création d'un jeu vidéo dans le cadre de l'école. Le projet n'est pas encore public pour des raisons de confidentialité académique, car plusieurs élèves travaillent sur des projets similaires, et nous devons éviter tout risque de triche.
+## Contact
 
----
-
-## 🚀 Objectifs
-
-Je souhaite contribuer davantage aux projets open-source et renforcer mes compétences dans l’administration système et le déploiement de réseaux. Mon ambition est de créer une marque française de technologie pour rivaliser avec des entreprises comme Apple, avec un système d'exploitation unique basé sur un noyau Linux.
-
----
-
-## 🌐 Retrouvons-nous
-
-- **LinkedIn** : [www.linkedin.com/in/mpahmanoah](https://www.linkedin.com/in/mpahmanoah)
+- **LinkedIn** : [linkedin.com/in/mpahmanoah](https://www.linkedin.com/in/mpahmanoah)
 - **Email** : mpahmanoah@gmail.com
