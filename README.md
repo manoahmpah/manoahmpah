@@ -15,7 +15,7 @@ Je travaille sur des projets orientés objet, principalement en C++ et Python, a
 
 ## Projets
 
-- **Jeu en C++** : Projet scolaire, non public pour des raisons de confidentialité académique.
+- **Jeu en C#** : Projet scolaire, non public pour des raisons de confidentialité académique. C'est un jeu ou le joueur doit créer une ville et améliorer celle-ci. Nous utillisons **Unity** comme moteur de jeu.
 
 ## Objectifs
 
