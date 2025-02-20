@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Manoah
 
-👨‍💻 **Développeur en C++, Python, et PHP**  
+👨‍💻 **Développeur en C++, Python et PHP**  
 🎓 Étudiant à SUPINFO, passionné par l'architecture logicielle et les applications innovantes.
 
 ## À propos
@@ -10,7 +10,7 @@ Je travaille sur des projets orientés objet, principalement en C++ et Python, a
 
 ## Compétences
 
-- **Langages** : C++, Python, PHP, SQL
+- **Langages** : C++, C, C#, Python, PHP, SQL, Java, TS
 - **Outils** : Cyberduck, Windows Server, MySQL (8.0.30), Laragon, suite jetBrain
 
 ## Projets
