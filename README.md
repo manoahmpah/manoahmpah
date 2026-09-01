@@ -5,8 +5,7 @@
 
 ## À propos
 
-Je travaille sur des projets orientés objet, principalement en C++ et Python, avec un intérêt particulier pour l'administration de systèmes et les technologies de virtualisation. Dernièrement, j'ai configuré un VPN site à site sous Windows Server pour un projet fictif, *Pasta Scaduta*.
-
+Je suis a la recherche d'une alternance dans le domaine de la sécurité.
 
 ## Compétences
 
