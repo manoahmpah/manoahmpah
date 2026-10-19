@@ -3,10 +3,6 @@
 👨‍💻 **Développeur en C++, Python et PHP**  
 🎓 Étudiant à SUPINFO, passionné par l'architecture logicielle et les applications innovantes.
 
-## À propos
-
-Je suis a la recherche d'une alternance dans le domaine de la sécurité.
-
 ## Compétences
 
 - **Langages** : C++, C, C#, Python, PHP, SQL, Java, TS
